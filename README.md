@@ -1,5 +1,5 @@
 GROK AI
-<a href="https://grok.free/"GROK.FREE</a> offers a simple, fast, and accessible alternative for everyone. No account is needed. No login required. The site provides direct access to Grok, the AI developed by xAI, the company founded by Elon Musk. You ask a question, and Grok instantly responds.
+<a href="https://grok.free/">GROK.FREE</a> offers a simple, fast, and accessible alternative for everyone. No account is needed. No login required. The site provides direct access to Grok, the AI developed by xAI, the company founded by Elon Musk. You ask a question, and Grok instantly responds.
 Artificial intelligence is evolving rapidly. New tools emerge daily to meet user needs. However, most require registration or a subscription. This creates barriers for those who simply want to test or explore.
 
 On grok.free, you can benefit from Grok’s performance without paying, without technical limitations, and without wasting time. It is a powerful and accessible tool, perfect for discovering AI in a new way.
